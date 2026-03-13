@@ -93,5 +93,3 @@ Musab Shaikh
 GitHub: https://github.com/musabshaikhh
 
 Instagram: https://www.instagram.com/musab_dev/
-
-Custom UI comp
