@@ -12,55 +12,57 @@ Cozy Focus is designed to create a relaxing environment for productivity using s
 
 Main concept:
 
-Minimalist productivity
+. Minimalist productivity
 
-Cozy UI aesthetic
+. Cozy UI aesthetic
 
-Calm focus experience
+. Calm focus experience
 
 ✨ Features
 
-🌿 Minimalist and cozy UI design
+. 🌿 Minimalist and cozy UI design
 
-⏱ Focus timer interface
+. ⏱ Focus timer interface
 
-📝 Task list UI
+. 📝 Task list UI
 
-🌱 Focus garden progress UI
+. 🌱 Focus garden progress UI
 
-📊 Statistics screen layout
+. 📊 Statistics screen layout
 
-🎨 Custom color theme
+. 🎨 Custom color theme
 
-📱 Responsive Flutter layouts
+. 📱 Responsive Flutter layouts
 
-🧩 Modular widget structure
+. 🧩 Modular widget structure
 
-🎨 Design Style
+. 🎨 Design Style
 
 The UI is inspired by cozy productivity apps with:
 
-Soft pastel colors
+. Soft pastel colors
 
-Rounded components
+. Rounded components
 
-Clean typography
+. Clean typography
 
-Calm visual hierarchy
+. Calm visual hierarchy
 
-Minimal distractions
+. Minimal distractions
 
 Example color palette:
 
-Warm Brown
-Cream
-Soft Green
-Beige
+#Warm Brown
+#Cream
+#Soft Green
+#Beige
+
+
 🛠 Built With
 
-Flutter
+. Flutter
 
-Dart
+. Dart
 
 
 
@@ -68,19 +70,19 @@ Dart
 
 Planned upgrades:
 
-🔐 Authentication
+. 🔐 Authentication
 
-☁️ Backend integration
+. ☁️ Backend integration
 
-📊 Real focus statistics
+. 📊 Real focus statistics
 
-🌱 Persistent habit tracking
+. 🌱 Persistent habit tracking
 
-🔔 Notifications
+. 🔔 Notifications
 
-🎧 Ambient sound player
+. 🎧 Ambient sound player
 
-\📄 License
+📄 License
 
 This project is open source and available under the MIT License.
 
